@@ -2,26 +2,30 @@
 @import url('css\zodiak.css');
 
 body {
-    background-image: url("assets\background.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
-    height: 100vh;
+    /* height: 100vh; */
+    margin: 30px;
     
 }
 
 main {
-    max-width: 75%;
-    background-color: rgba(255, 255, 255, 0.5);
-    
+    max-width: 20%;
+    /* background-color: rgba(255, 255, 255, 0.5); */
+    margin: auto;
     border-radius: 15px;
 }
 
-h1 h2 {
+h1 {
     font-family: 'Zodiak-Light';
     font-size: 48px;
+    display: block;
+    margin: auto;
 }
 
 a {
     display: block;
+    margin: 7px auto;
 }
 
 img {
