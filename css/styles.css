@@ -1,1 +1,25 @@
 /* My Styles */
+@import url('css/zodiak.css');
+
+body {
+    background-image: url("assets/background.jpg");
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+main {
+    max-width: 75%;
+    background-color: black;
+}
+
+h1 h2 {
+    font-family: 'Zodiak-Light';
+    font-size: 48px;
+}
+
+a {
+    display: block;
+}
+
+
