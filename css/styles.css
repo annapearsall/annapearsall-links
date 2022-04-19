@@ -1,5 +1,5 @@
 /* My Styles */
-@import url('css/styles.css');
+@import url('css\zodiak.css');
 
 body {
     background: rgb(207,23,6);
@@ -8,6 +8,7 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     margin: 30px;
+    display: flex;
 }
 
 main {
@@ -20,6 +21,13 @@ main {
 h1 {
     font-family: 'Zodiak-Light';
     font-size: 48px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Zodiak-Light';
+    font-size: 32px;
     display: block;
     margin: auto;
 }
