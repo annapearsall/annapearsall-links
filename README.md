@@ -4,6 +4,7 @@ This is my take on a landing page. This replaces a linktree account or other sim
 * responsive design for mobiles (mainly headings)
 * figure out solution for background image to not stretch
 * incorporate logo in some way
+* find a better way to import fonts?
 
 # Sources
 Fonts are from Google Fonts: Merriweather and Italianno.
