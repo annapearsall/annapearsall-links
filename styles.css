@@ -1,0 +1,73 @@
+/* My Styles */
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Merriweather&family=Raleway:wght@300;400&display=swap');
+
+body {
+    height: 100vh;
+    margin: 30px;
+    /* display: flex; */
+    background-image: url(background.jpg);
+    background-size: 100% 33%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+h1 {
+    font-family: 'Italianno', cursive;
+    color: #687A7C;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 100;
+}
+
+h2 {
+    font-family: 'Italianno', cursive;
+    color: #687A7C;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: 100;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    max-width: 600px;
+    margin: 15px auto;
+    color:#334749; 
+}
+
+div {
+    width: 174px;
+    font-family: 'Merriweather', serif;
+    border-radius: 60px;
+    background-color: #687A7C;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+
+div:hover {
+    background-color: #334749;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    margin: 140px auto 0px;
+    border-radius: 50%;
+    width: 219px;
+    /* border: solid white 6px; */
+    height: 219px;
+    
+}
+
