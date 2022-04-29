@@ -1,21 +1,12 @@
-# DIY Landing Page
+This is my take on a landing page. This replaces a linktree account or other similar services.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+# Still need to...
+* responsive design for mobiles (mainly headings)
+* figure out solution for background image to not stretch
+* incorporate logo in some way
 
-## What Is This? 
-My DIY Landing Page with these features. 
+# Sources
+Fonts are from Google Fonts: Merriweather and Italianno.
+Photos are my own.
 
-* My content. My design.
-* Customizable, and persistent URL e.g. `YourCustomName.Netlify.app`
-* Portable. Take it to any web host. 
-* Future proof, and easy to maintain. You own the code via GitHub
-* Secure, and scalable to many CDNs worldwide via Netlify
 
-## Sources
-* [How to Center with CSS](https://coryrylan.com/blog/how-to-center-in-css-with-css-grid)
-* Background Photo by [Akira Hojo](https://unsplash.com/@joephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/water?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-## Why Does This Exist? 
-Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
-
-There are too many services to choose from. Each one has minor differences, and benefits with premium paid upgrades. 
